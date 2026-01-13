@@ -1,0 +1,21 @@
+{
+  "name": "Uniform Submission",
+  "short_name": "Uniform",
+  "start_url": "https://script.google.com/macros/s/AKfycbwqA3zaG2g9waS5g1Ym2FzwuPWC4RgVJ_J1Luhb5Dhb1qOoIYvNa92BPNh9Sv2d7NhzGA/exec",
+  "scope": "https://script.google.com/",
+  "display": "standalone",
+  "background_color": "#0b1c2d",
+  "theme_color": "#0b1c2d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
